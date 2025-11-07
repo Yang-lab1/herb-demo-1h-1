@@ -107,3 +107,4 @@ if pending_list:
         st.divider()
 else:
     st.info("暂无建议，快来提交第一条吧～")
+
